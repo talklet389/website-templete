@@ -13,5 +13,5 @@ all vertions are supported
 
 ## Reporting a Vulnerability
 
-please report the vernuriblity on the wiki
+please report the vernuriblity on the wiki or forum
 
